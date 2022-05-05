@@ -1,5 +1,5 @@
 # ThelVadam
-Codificador y descodificador 
+Codificador y descodificador base 64
 
 Install
 
